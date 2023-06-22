@@ -5,7 +5,7 @@
 
 ## About me
 
-- 💻 CTF player with [Tower of Hanoi](https://toh.necst.it)
+- 💻 CTF player with [mHackeroni](https://mhackeroni.it/) and [Tower of Hanoi](https://toh.necst.it)
 - 🏠 Milan, Italy
 
 <!---
