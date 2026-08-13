@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Riccardo
 
+- 💼 Security & Privacy Engineer at [Bending Spoons](https://bendingspoons.com/)
 - 📜 Graduated with a bachelor in Computer Engineering at Politecnico di Milano
 - 👨‍🎓 Attending a Matser's degree in Computer Science and Engineering at Politecnico di Milano
 
